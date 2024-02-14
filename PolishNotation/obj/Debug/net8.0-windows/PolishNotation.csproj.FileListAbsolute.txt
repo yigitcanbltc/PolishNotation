@@ -1,0 +1,16 @@
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\bin\Debug\net8.0-windows\PolishNotation.exe
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\bin\Debug\net8.0-windows\PolishNotation.deps.json
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\bin\Debug\net8.0-windows\PolishNotation.runtimeconfig.json
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\bin\Debug\net8.0-windows\PolishNotation.dll
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\bin\Debug\net8.0-windows\PolishNotation.pdb
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\obj\Debug\net8.0-windows\PolishNotation.Form1.resources
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\obj\Debug\net8.0-windows\PolishNotation.csproj.GenerateResource.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\obj\Debug\net8.0-windows\PolishNotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\obj\Debug\net8.0-windows\PolishNotation.AssemblyInfoInputs.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\obj\Debug\net8.0-windows\PolishNotation.AssemblyInfo.cs
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\obj\Debug\net8.0-windows\PolishNotation.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\obj\Debug\net8.0-windows\PolishNotation.dll
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\obj\Debug\net8.0-windows\refint\PolishNotation.dll
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\obj\Debug\net8.0-windows\PolishNotation.pdb
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\obj\Debug\net8.0-windows\PolishNotation.genruntimeconfig.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\PolishNotation\PolishNotation\obj\Debug\net8.0-windows\ref\PolishNotation.dll
